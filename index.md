@@ -1,12 +1,11 @@
 ---
-![](https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
 title: CAMI
-Crecemos juntos
+comment: Crecemos juntos
 filename: index.md
 --- 
 
 
-# Más que datos
+## Más que datos
 
 En los últimos años, 
 
