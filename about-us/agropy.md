@@ -1,7 +1,7 @@
 ---
 title: CAMI: CAmpesinos y Mediciones ambIentales
 description: Crecemos juntos
-filename: agropy.md
+filename: about-us/agropy.md
 --- 
 
 ### ¿Quiénes somos?
