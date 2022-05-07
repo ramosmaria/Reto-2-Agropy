@@ -1,3 +1,9 @@
+---
+title: CAMI
+filename: index.md
+--- 
+
+
 ## Más que un reto
 
 Agropy surge del [Hackathon CoAfina 20222](https://laconga.redclara.net/hackathon/), motivado a 
