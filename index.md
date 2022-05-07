@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Más que un reto
 
-You can use the [editor on GitHub](https://github.com/ramosmaria/Reto-2-Agropy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Agropy surge del [Hackathon CoAfina 20222](https://laconga.redclara.net/hackathon/), motivado a 
+
+!(https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
