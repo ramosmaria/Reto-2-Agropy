@@ -1,9 +1,7 @@
 
 ---
-
 title: Agropy
 filename: agropy.md
-
 --- 
 
 Agropy surge 
