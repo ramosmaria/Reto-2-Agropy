@@ -2,14 +2,14 @@
 
 Agropy surge del [Hackathon CoAfina 20222](https://laconga.redclara.net/hackathon/), motivado a 
 
-!(https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
+![](https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Una solución: CAMI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CAMI (Campesinos y mediciones ambientales) es la propuesta de [MakeSens](https://makesens.co/) para CoAfina. Un algoritmo pensado para
 
 ```markdown
 Syntax highlighted code block
