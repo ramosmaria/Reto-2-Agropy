@@ -1,6 +1,6 @@
 ---
 title: CAMI
-subtitle: Crecemos juntos
+description: Crecemos juntos
 filename: index.md
 --- 
 
