@@ -1,5 +1,6 @@
 ---
-title: CAMI - CAmpesinos y Mediciones ambIentales
+title: CAmpesinos y 
+Mediciones ambIentales (CAMI)
 description: Crecemos juntos
 filename: index.md
 --- 
