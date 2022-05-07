@@ -1,5 +1,5 @@
 ---
-title: CAMI
+title: CAMI: CAmpesinos y Mediciones ambIentales
 description: Crecemos juntos
 filename: index.md
 --- 
