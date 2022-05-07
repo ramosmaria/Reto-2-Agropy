@@ -1,10 +1,10 @@
 ---
 title: CAMI
 subtitle: Crecemos juntos
-[image]: https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png width=40px height=400px
 filename: index.md
 --- 
 
+![](CAMI.png)
 
 ## Más que datos
 
