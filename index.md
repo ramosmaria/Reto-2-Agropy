@@ -1,5 +1,6 @@
 ---
 title: CAmpesinos y Mediciones ambIentales (CAMI) ¡Crecemos juntos!
+layout: template
 filename: index.md
 --- 
 
