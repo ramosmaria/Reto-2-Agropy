@@ -38,3 +38,8 @@ Considerar el parámetro de humedad como un factor de proliferación de hongos y
 ##### Recomendaciones:
 Generar una nueva manera de hacer la penalización en la comparación del filtrado de los parámetros.
 Nueva manera de andar por los rangos de fechas.
+
+
+---
+
+### [Reporte estadítico](https://github.com/ramosmaria/Reto-2-Agropy/blob/main/Reporte_tecnico_ambiente.html). ¡Descarga y correlo en el navegador!
