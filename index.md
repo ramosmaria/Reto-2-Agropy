@@ -8,7 +8,7 @@ filename: index
 
 # Más allá de un desafío: nuestra motivación
 
-El equipo Agropy del [Hackathon CoAfina 2022](https://laconga.redclara.net/hackathon/) responde al reto de [MakeSens](https://makesens.co/) para dar respuesta inmediata a los campesinos de Latinoamérica de los cultivos más viables de acuerdo a datos medioambientales actualizados. De esta manera, desarrollamos CAMI (CAmpesinos y Mediciones ambIentales), un algoritmo diseñado para calcular los porcentajes de éxito de siembra de diferentes cultivos de acuerdo a parámetros como temperatura, humedad y precipitación. 
+El equipo Agropy del [Hackathon CoAfina 2022](https://laconga.redclara.net/hackathon/) asume reto de [MakeSens](https://makesens.co/) para dar respuesta inmediata a los campesinos de Latinoamérica de los cultivos más viables de acuerdo a datos medioambientales actualizados. De esta manera, desarrollamos CAMI (CAmpesinos y Mediciones ambIentales), un algoritmo diseñado para calcular los porcentajes de éxito de siembra de diferentes cultivos de acuerdo a parámetros como temperatura, humedad y precipitación. 
 
 Pero, somos más que líneas de código, queremos aportar nuestras semillas de conocimiento y tecnología para la agricultura sustentable ¡Crecemos juntos!
 
