@@ -1,7 +1,7 @@
 ---
 title: Página principal
 layout: template
-filename: index.md
+filename: index
 --- 
 
 ![](CAMI.png)
