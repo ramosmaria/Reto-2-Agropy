@@ -18,11 +18,4 @@ Considerar los costos y tiempos de producción para clasificar de acuerdo a la r
 Generación de vectores de probabilidad y de rentabilidad.
 Gasto adicional por fungicidas, herbicidas, insecticidas, etc.
 
-    Sería muy útil saber los rangos de fechas en los que los cultivos están en condiciones adversas y su crecimiento/calidad/productividad se pudiera ver afectado.
-
-Agropy surge del [Hackathon CoAfina 2022](https://laconga.redclara.net/hackathon/), somos un grupo motivado
-
-![](https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sería muy útil saber los rangos de fechas en los que los cultivos están en condiciones adversas y su crecimiento/calidad/productividad se pudiera ver afectado.
