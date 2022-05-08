@@ -1,6 +1,5 @@
-
 ---
-title: Creando a Cami
+title: El Código
 layout: template
 filename: cami-codigo.md
 ---
