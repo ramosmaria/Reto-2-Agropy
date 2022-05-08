@@ -1,8 +1,9 @@
 
-----
+---
 title: Creando a Cami
+layout: template
 filename: cami-codigo.md
-----
+---
 
 ## Hablemos de código
 
