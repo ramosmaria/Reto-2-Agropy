@@ -1,6 +1,6 @@
-
 ----
-title: Agropy
+title: Sobre Nosotros
+layout: template
 filename: agropy.md
 ----
 
