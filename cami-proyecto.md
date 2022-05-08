@@ -12,5 +12,11 @@ filename: cami-proyecto
 
 Pero más allá de sus líneas de código 
 
-<h1 style="color:MintCream;background-color:MediumSeaGreen;text-align:center;"> CAMI es </h1>
+<h1 style="color:MintCream;background-color:MediumSeaGreen;text-align:center;"> CAMI es... </h1>
+
+*
+*
+*
+
+<h1 style="color:MintCream;background-color:MediumSeaGreen;text-align:center;"> ¡Crecemos juntos! </h1>
 
