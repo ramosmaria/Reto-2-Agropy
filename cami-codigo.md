@@ -8,7 +8,7 @@ filename: cami-codigo
 
 ### Entradas
 
-**Usuario:** Fecha inicial y final. 
+**Usuario:** Fecha inicial y final.  
 **Empresa:** Código de la estación climatológica (de acuerdo al lugar de interés), Token, parámetros a tomar y pesos de los parámetros (Temperatura, Humedad y precipitación), Datasets Cultivos.
 
 
