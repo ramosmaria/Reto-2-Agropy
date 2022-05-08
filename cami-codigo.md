@@ -1,7 +1,7 @@
 ---
 title: El Código
 layout: template
-filename: cami-codigo.md
+filename: cami-codigo
 ---
 
 ## Hablemos de código
