@@ -1,7 +1,7 @@
 ---
 title: Sobre Nosotros
 layout: template
-filename: agropy.md
+filename: agropy
 ---
 
 Agropy surge 
