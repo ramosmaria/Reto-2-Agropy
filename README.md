@@ -42,4 +42,4 @@ Nueva manera de andar por los rangos de fechas.
 
 ---
 
-### [Reporte estadítico](https://github.com/ramosmaria/Reto-2-Agropy/blob/main/Reporte_tecnico_ambiente.html). ¡Descarga y correlo en el navegador!
+### [Reporte estadístico](https://github.com/ramosmaria/Reto-2-Agropy/blob/main/Reporte_tecnico_ambiente.html). ¡Descarga y correlo en el navegador!
