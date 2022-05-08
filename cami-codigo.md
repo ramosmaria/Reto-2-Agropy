@@ -4,6 +4,11 @@ layout: template
 filename: cami-codigo
 ---
 
+
+# ¡Explora nuestro código!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramosmaria/Reto-2-Agropy/HEAD)
+
 ## Hablemos de código
 
 ### Entradas
@@ -31,5 +36,5 @@ filename: cami-codigo
 
 ### Hacia dónde vamos
 
-* Considerar el parámetro de humedad como un factor de proliferación de hongos y hiervas, que afectan al desarrollo de los cultivos y, por tanto, en su rentabilidad económica.
+* Considerar el parámetro de humedad como un factor de proliferación de hongos y hierbas, que afectan al desarrollo de los cultivos y, por tanto, en su rentabilidad económica.
 * Generar una nueva manera de hacer la penalización en la comparación del filtrado de los parámetros. Nueva manera de andar por los rangos de fechas.
