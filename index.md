@@ -20,10 +20,3 @@ En Agropy creemos en las soluciones innovadoras, pero sabemos que tecnificar el 
 
 
 ## Cosechamos con éxito
-
-Agropy surge del [Hackathon CoAfina 20222](https://laconga.redclara.net/hackathon/), motivado a 
-
-![](https://laconga.redclara.net/hackathon/static/media/logo-co-afina.196c0780.png)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
