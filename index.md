@@ -18,5 +18,10 @@ El monitoreo de las condiciones ambientales siempre ha sido fundamental para cum
 
 En Agropy creemos en las soluciones innovadoras, pero sabemos que tecnificar el sector agrario es un reto en sí mismo. Escoger los cultivos a sembrar en determinadas épocas del año lleva a un estudio de factores climáticos, el cual es complejo y multivariable. Esto lleva a la creación de **CAMI**, un algoritmo que aprovecha el vasto mundo de bases de datos de mediciones ambientales para su análisis e interpretación.
 
+CAMI toma sus datos de las condiciones climáticas registradas por la estación **EVA** de MakeSens y considera los parámetros óptimos para germinación y crecimiento de diferentes frutas y verduras.
 
 ## Cosechamos con éxito
+
+El algoritmo de CAMI compara los históricos ambientales con las condiciones esperadas para la cosecha exitosa; puntúa si se satisfacen los parámetros deseados, y recomienda los cultivos más adecuados considerando la probabilidad de éxito de acuerdo a la época del año. Así, CAMI es una herramienta de apoyo a los campesinos, ayudándolos a escoger la mejor opción.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2PcGNzVhq2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
